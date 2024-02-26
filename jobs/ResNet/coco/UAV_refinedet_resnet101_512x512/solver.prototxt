@@ -1,0 +1,21 @@
+train_net: "models/ResNet/coco/UAV_refinedet_resnet101_512x512/train.prototxt"
+base_lr: 0.0010000000475
+display: 10
+max_iter: 160000
+lr_policy: "multistep"
+gamma: 0.10000000149
+momentum: 0.899999976158
+weight_decay: 0.000500000023749
+snapshot: 10000
+snapshot_prefix: "models/ResNet/coco/UAV_refinedet_resnet101_512x512/coco_UAV_refinedet_resnet101_512x512"
+solver_mode: GPU
+device_id: 0
+debug_info: false
+snapshot_after_train: true
+average_loss: 10
+stepvalue: 100000
+stepvalue: 120000
+stepvalue: 160000
+iter_size: 1
+type: "SGD"
+
