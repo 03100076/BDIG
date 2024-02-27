@@ -6,9 +6,9 @@
 
 
 ### Installation
-1. Get the code. We will call the cloned directory as `$BDIG-Net`.
+1. Get the code. We will call the cloned directory as `$BDIG`.
   ```Shell
-  git clone https://github.com/03100076/BDIG-Net
+  git clone https://github.com/03100076/BDIG
   ```
 
 2. Build the code. Please follow [Caffe instruction](http://caffe.berkeleyvision.org/installation.html) to install all necessary packages and build it.
@@ -21,12 +21,12 @@
   ```
 
 ### Training 
-  sh models/PKG_setting/setting_2/UAV_train.sh
+  sh models/BDIG_setting/setting_2/UAV_train.sh
 
 
 
 ### Evaluation
-  sh models/PKG_setting/test_setting/test.sh
+  sh models/BDIG_setting/test_setting/test.sh
 
 
 # BDIG-Net

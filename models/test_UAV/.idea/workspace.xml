@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10cf0032-243e-49bc-bcbb-b54d32ef3a27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712/coco_voc_map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712/create_data.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/VOC0712/create_data.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712/create_list.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/VOC0712/create_list.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712/labelmap_voc.prototxt" beforeDir="false" afterPath="$PROJECT_DIR$/../../data/VOC0712/labelmap_voc.prototxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712Plus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712Plus/coco_voc_map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712Plus/create_data.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712Plus/create_list.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/VOC0712Plus/labelmap_voc.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/coco/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/coco/create_data.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/coco/create_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/coco/labelmap_coco.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/coco/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/convert_model_320.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/convert_model_320.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/000456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/000542.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/001150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/001763.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/004545.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/cat gray.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/cat_gray.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/images/fish-bike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/ResNet101_COCO_320.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/ResNet101_COCO_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/VGG16_COCO_320.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/VGG16_COCO_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/VGG16_VOC2007_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/VGG16_VOC2012_320.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/VGG16_VOC2012_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/finetune_VGG16_VOC2007_320.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/finetune_VGG16_VOC2007_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/finetune_VGG16_VOC2012_320.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/refinedet/finetune_VGG16_VOC2012_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../include/caffe/layers/prior_box_layer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../include/caffe/layers/prior_box_layer.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/caffe/layers/prior_box_layer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/caffe/layers/prior_box_layer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/caffe/proto/caffe.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/caffe/proto/caffe.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/caffe/solver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/caffe/solver.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/lib/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/lib/datasets/coco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/refinedet_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/refinedet_test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1450876233">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_DJI_6class.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_DJI_6class.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="774" />
+    <option name="y" value="113" />
+    <option name="width" value="1012" />
+    <option name="height" value="904" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_UAV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_UAV" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test_DJI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_UAV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_DJI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_DJI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10cf0032-243e-49bc-bcbb-b54d32ef3a27" name="Default Changelist" comment="" />
+      <created>1620458319383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620458319383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298647" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_DJI_6class.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_DJI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
