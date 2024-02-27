@@ -13,9 +13,9 @@
 
 2. Build the code. Please follow [Caffe instruction](http://caffe.berkeleyvision.org/installation.html) to install all necessary packages and build it.
   ```Shell
-  cd $BDIG-Net
+  cd $BDIG
   # Modify Makefile.config according to your Caffe installation.
-  # Make sure to include $BDIG-Net/python to your PYTHONPATH.
+  # Make sure to include $BDIG/python to your PYTHONPATH.
   cp Makefile.config.example Makefile.config
   make all -j && make py
   ```
@@ -29,4 +29,4 @@
   sh models/BDIG_setting/test_setting/test.sh
 
 
-# BDIG-Net
+# BDIG
